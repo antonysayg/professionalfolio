@@ -115,7 +115,7 @@ const Sidebar = () => {
               {' '}
               Thank you!
             </Text>
-            <br />I am software engineer
+            <br />I am a software engineer
           </MotionText>
           <MotionButton
             size="lg"
